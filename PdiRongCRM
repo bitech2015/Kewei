@@ -25,13 +25,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.bitech.PdiRongCRM.inhouse</string>
+				<string>com.bitech.parkon.inhouse</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>浦东科技金融</string>
+				<string>i融</string>
 			</dict>
 		</dict>
 	</array>
